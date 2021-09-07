@@ -1,0 +1,15 @@
+{
+  "name": "sample_app",
+  "version": "1.0.0",
+  "description": "express",
+  "main": "server.js",
+  "scripts": {
+    "test": "ok"
+  },
+  "author": "Inosha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.4"
+  }
+}
